@@ -1,6 +1,4 @@
 # Java
 
-## Two dimensional arrays
-## Recursion
-## Search and Sort
-## Classes
+This page is heavily inspired on [alemoraru's algorithms pages](https://alemoraru.github.io/algorithms)
+
