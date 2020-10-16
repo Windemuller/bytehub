@@ -198,7 +198,7 @@ There are many different versions of quickSort:
 
 ### Merge Sort
 ::: theorem Merge Sort
-Merge Sort is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves. The merge() function is used for merging two halves. The merge(arr, low, middle, middle+1, high) takes arr[low..middle] and arr[middle+1..high] which should be sorted and merges the two them into one.
+Merge Sort is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves. The `merge()` function is used for merging two halves. The merge(arr, low, middle, middle+1, high) takes `arr[low..middle]` and `arr[middle+1..high]` which should be sorted and merges the two of them into one.
 :::
 
 ```java
